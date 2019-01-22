@@ -8,7 +8,7 @@ A clone of the game Brick Breaker
 
 ## Tech/framework used
 
-Java,JPanel,JFrame,Swing
+Java and Swing
  
 ## Screenshots
 
